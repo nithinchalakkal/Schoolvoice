@@ -1,0 +1,26 @@
+#
+# generated on 2019/05/25 07:00:41
+#
+# --table-start--
+dataClass=com.blogspot.nithinchalakkal.schoolvoiceapplication.model.Data
+tableName=data
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=name
+# --field-end--
+# --field-start--
+fieldName=itemID
+# --field-end--
+# --field-start--
+fieldName=time
+# --field-end--
+# --field-start--
+fieldName=view_Like
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
